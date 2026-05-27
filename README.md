@@ -59,35 +59,38 @@ Bienvenidos al repositorio de la materia **Análisis de Datos**! Aquí encontrar
     <tr>
         <td><a href=notebooks/clase_03_repaso_practico_1.ipynb>Repaso práctico con datos reales (parte 1)</a></td>
     </tr>
-    <!--
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
-        <td><a href=notebooks/clase_04_codificacion.ipynb>notebook_clase_4_codificacion</a></td>
+        <td><a href=notebooks/clase_04_split_y_stratify.ipynb>Intro a ML parte II: split del dataset</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_04_tratamiento_datos_faltantes.ipynb>notebook_clase_4_tratamiento_datos_faltantes</a></td>
+        <td><a href=notebooks/clase_04_codificacion.ipynb>Codificación</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>notebook_clase_4_tratamiento_outliers</a></td>
+        <td><a href=notebooks/clase_04_tratamiento_datos_faltantes.ipynb>Tratamiento de faltantes</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_04_discretizacion.ipynb>notebook_clase_4_discretizacion</a></td>
+        <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>Tratamiento de outliers</a></td>
     </tr>
     <tr>
-        <td rowspan="4">5️⃣</td>
-        <td rowspan="4">Procesamiento de datos (continuación)</td>
-        <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>notebook_clase_5_normalizacion_estandarizacion</a></td>
+        <td rowspan="5">5️⃣</td>
+        <td rowspan="5">Procesamiento de datos (continuación)</td>
+        <td><a href=otebooks/clase_05_discretizacion.ipynb>Discretización</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>notebook_clase_5_tratamiento_avanzado_faltantes</a><td>
+        <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>Normalización y estandarización</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_tratamiento_outliers_adv.ipynb>notebook_clase_5_tratamiento_avanzado_outliers</a></td>
+        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>Técnicas avanzadas de tratamiento de faltantes</a><td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_desbalance.ipynb>notebook_clase_5_desbalance</a></td>
+        <td><a href=notebooks/clase_05_tratamiento_outliers_adv.ipynb>Técnicas avanzadas de tratamiento de outliers</a></td>
     </tr>
+    <tr>
+        <td><a href=notebooks/clase_05_desbalance.ipynb>Desbalance</a></td>
+    </tr>
+    <!--
     <tr>
         <td rowspan="7">6️⃣</td>
         <td rowspan="7">Reducción de la dimensionalidad + Bonus</td>
